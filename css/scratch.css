@@ -1,0 +1,80 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:seashell;
+    text-align: center;
+    font-size:larger;
+    color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.genimage {
+    width: 33.1%;
+}
+
+.specialimage{
+    height: 70px;
+    margin-right: 75px;
+    margin-left: 75px;
+    
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1{
+    font-size: 100px;
+    font-family: fantasy;
+    color: lightskyblue;
+    text-align: center;
+    width: 100%;
+    top: 0px;
+}
+
+h3{
+    text-align: center;
+    font-size: xx-large;
+}
+
+.video{
+    display: block;
+
+}
+
+.list{
+    text-align: left;
+    margin-left: 35%;
+}
+
+.tableau{
+    margin-top: 75px;
+    margin-bottom: 100px;
+}
+
+.text{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    font-size: x-large;
+    text-align: center;
+    background-color: seashell;
+    border: solid lightskyblue 5px;
+    left: 0px;
+}
+
+a{
+    color: lightskyblue;
+}
+
+a:visited{
+    color: deepskyblue;
+}
